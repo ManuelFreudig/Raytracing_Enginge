@@ -1,6 +1,6 @@
 ﻿A Raytracing Engine written in Rust based on <a href="https://raytracing.github.io/books/RayTracingInOneWeekend.html">
     <cite>Ray Tracing in One Weekend</cite>
-</a>
+</a>.
 
 Todo: 
 <ul>
